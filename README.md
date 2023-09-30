@@ -12,3 +12,7 @@
 ## Displaying data in a list
 
 ![Displaying data in a list](Screenshot/3.png)
+
+## Passing data with bindings
+
+![Passing data with bindings](Screenshot/4.png)
